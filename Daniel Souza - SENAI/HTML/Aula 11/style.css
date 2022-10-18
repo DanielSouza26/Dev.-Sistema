@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    font-family: "rubik";
+    font-size: xx-large;
+    justify-content: space-evenly;
+}
+
+#sub {
+    height: 10vh;
+    background-color: white;
+}
+
+header > p {
+    color: white;
+}
+
+#color {
+    color: #BFB434;
+}
+
+.busca {
+    display: flex;
+    align-items: center;
+}
+
+.busca > input{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 2px;
+}
+
+.busca > img{
+    width: 5%;
+    background-color: #BFB434;
+}
+
+.login{
+    display: flex;
+    align-items: center; 
+}
+.login > p{
+    color: white;
+    font-size: medium;
+}
+
+.login > img{
+    width: 10%;
+}
+
+#sub{
+    height: 5vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: "rubik";
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+ul > li{
+   cursor: pointer; 
+   padding: 12px;
+}
+
+#maria{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "open sans";
+}
+
+main {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+

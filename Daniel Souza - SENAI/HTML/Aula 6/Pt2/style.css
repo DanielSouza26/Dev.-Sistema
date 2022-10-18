@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+
+.retangulo {
+    border: 2px solid black;
+    width: 1000px;
+    height: 300px;
+    position: relative;
+    background-color: bisque;
+}
+
+#retangulo2 {
+    position: static;
+    background-color: blue;
+}

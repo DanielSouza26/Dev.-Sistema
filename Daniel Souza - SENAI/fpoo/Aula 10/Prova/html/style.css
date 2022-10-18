@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#faixa {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(147, 202, 147);
+}
+
+header > p {
+    margin-top: -80px;
+    margin-left: 750px;
+    font-size: xx-large;
+}
+
+header > img {
+    margin-top: -90px;
+    margin-left: 980px;
+    width: 100px;
+    height: 100px;
+}
+
+#cla > p {
+    margin-top: 70px;
+    margin-left: 500px;
+    font-size: x-large;
+}
+
+#ind > p {
+    margin-top: 70px;
+    margin-left: 510px;
+    font-size: x-large;
+}
+
+#gra1 {
+    width: 30vw;
+    height: 30vh;
+    background-color: rgb(207, 204, 204);
+    margin-top: 50px;
+    margin-left: 265px;
+}
+
+#lis1 > ul {
+    list-style: none;
+    font-size: larger;
+    margin-left: 300px;
+    margin-top: -250px;
+}
+
+#pon1 > ul {
+    list-style: none;
+    font-size: larger;
+    margin-left: 700px;
+    margin-top: -200px;
+}
+
+#equi > p {
+    margin-top: 150px;
+    margin-left: 510px;
+    font-size: x-large;
+}
+
+#gra2 {
+    width: 30vw;
+    height: 30vh;
+    background-color: rgb(207, 204, 204);
+    margin-top: 50px;
+    margin-left: 265px;
+}
+
+#lis2 > ul {
+    list-style: none;
+    font-size: larger;
+    margin-left: 300px;
+    margin-top: -250px;
+}
+
+#pon2 > ul {
+    list-style: none;
+    font-size: larger;
+    margin-left: 700px;
+    margin-top: -200px;
+}
+
+#gal > p {
+    margin-top: -853px;
+    margin-left: 1350px;
+    font-size: x-large;
+}
+
+#cam > p {
+    margin-top: 70px;
+    margin-left: 1290px;
+    font-size: x-large;
+}
+
+#img1 {
+    width: 10px;
+    height: 10px;
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+
+#img2 {
+    width: 10px;
+    height: 10px;
+    margin-left: 1250px;
+    margin-top: -8px;
+}
+
+#img3 {
+    width: 10px;
+    height: 10px;
+    margin-left: 1500px;
+    margin-top: -8px;
+}
+
+#img4 {
+    width: 10px;
+    height: 10px;
+    margin-left: 1000px;
+    margin-top: 190px;
+}

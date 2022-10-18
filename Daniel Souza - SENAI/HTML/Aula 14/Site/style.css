@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    width: 100vw;
+    height: 15vh;
+    padding: 10px 20px;
+    background-color: red;
+}
+
+#tudo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 75px;
+    height: 50px;
+}
+
+#menu button {
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+#menu button:hover {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 165px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#iphone > img {
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+    float: left;
+}
+
+#pro > p {
+    line-height: 50px;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-left: 800px;
+    color: white;
+    
+}
+
+#txtiphone1 > p {
+    line-height: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    margin-left: 800px;
+    color: white;
+}
+
+#txtiphone2 > p {
+    line-height: 50px;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-left: 800px;
+    color: white;
+}
+
+#mac1 > p {
+    line-height: 50px;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+#mac > p {
+    line-height: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    float: left;
+}
+
+#macimg > img {
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+}
+
+#reloimg > img {
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+    float: left;
+}
+
+#relo1 > p {
+    line-height: 50px;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-left: 800px;
+    
+}
+
+#relo2 > p {
+    line-height: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    margin-left: 800px;
+   
+}
+
+.back {
+    background-color: black;
+    border-radius: 10px;
+    
+}
+
+
+
+

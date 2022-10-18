@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+ul > li {
+    float: left;
+}
+
+nav {
+    width: 100vw;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+}
+
+@media (max-width: 700px) {
+    ul, input {
+        display: none;
+    }
+}

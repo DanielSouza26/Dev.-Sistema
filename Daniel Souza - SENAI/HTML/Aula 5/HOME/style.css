@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? family= DynaPuff:wght@600 & display=swap');
+
+p{
+    color: red;
+    font-family: 'DynaPuff','Arial';
+    font-size: 32px;
+    background-color: wheat;
+}
+
+#texto{
+    color: black;
+    font-family: 'Arial';
+    background-color: rgba(187, 182, 174, 0.5);
+    width: 500px;
+    border: 5px solid white;
+}
+#titulo{
+    color: pink;
+    font-family: 'Verdana';
+    background-color: black;
+    width: 500px;
+    border-radius: 15px;
+}
+
+body{
+    background-image: url("../Assets/neyney.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

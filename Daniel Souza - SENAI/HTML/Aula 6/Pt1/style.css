@@ -1,0 +1,29 @@
+body {
+    background-color: blueviolet;
+}
+
+.circulos {
+    width: 150px;
+    height: 150px;
+    background-color: pink; 
+    border-radius: 75px;
+    position: static;
+}
+
+#segundo {
+    position: relative;
+    top: 0;
+}
+
+#terceiro {
+    position: absolute;
+    top: 200;
+    left: 200;
+}
+
+#retangulo {
+    border: 1px solid white;
+    width: 400px;
+    height: 300px;
+    position: relative;
+}
