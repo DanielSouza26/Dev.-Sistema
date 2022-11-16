@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+#img1 > img {
+    width: 400px;
+    height: 600px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+#caixa {
+    background-color: #f1e9e2;
+    width: 400px;
+    height: 600px;
+    margin-left: 900px;
+    margin-top: -604px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#txt1 > p {
+    font-size: 20px;
+    margin-left: 950px;
+    margin-top: -580px;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+#txt2 > p {
+    font-size: 40px;
+    margin-left: 950px;
+    margin-top: 10px;
+}
+
+#txt3 > p {
+    font-size: 20px;
+    margin-left: 950px;
+    margin-top: 10px;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+#txt4 > p {
+    font-size: 50px;
+    margin-left: 950px;
+    margin-top: 50px;
+    color: green;
+}
+
+#txt5 > p {
+    font-size: 20px;
+    margin-left: 1150px;
+    margin-top: -90px;
+    color: gray;
+    text-decoration: line-through;
+}
+
+button {
+    display: flex;
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    align-items: center;
+    width: 300px;
+    height: 50px;
+    justify-content: center;
+    color: white;
+     margin-top: 50px; 
+     margin-left: 950px;
+     cursor: pointer;
+}
